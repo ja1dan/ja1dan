@@ -6,7 +6,3 @@ I'm ajaidan0, a tweak developer. Here are my current projects:
 - [NoMoreScrollstoTop](https://github.com/ajaidan0/nomorescrollstotop)
 - [OTADisablerDisabler](https://github.com/ajaidan0/otadisablerdisabler)
 - [ReachabilityTimerBEGONE](https://github.com/ajaidan0/reachabilitytimerbegone)
-
-Developer-based tools:
-
-- [TheosScript](https://github.com/ajaidan0/theosscript)
