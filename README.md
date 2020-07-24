@@ -7,3 +7,6 @@ I'm ajaidan0, a tweak developer. Here are my current projects:
 - [OTADisablerDisabler](https://github.com/ajaidan0/otadisablerdisabler)
 - [ReachabilityTimerBEGONE](https://github.com/ajaidan0/reachabilitytimerbegone)
 - [ScrollBarBEGONE](https://github.com/ajaidan0/scrollbarbegone)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
