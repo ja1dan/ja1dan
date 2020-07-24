@@ -9,4 +9,7 @@ I'm ajaidan0, a tweak developer. Here are my current projects:
 - [ScrollBarBEGONE](https://github.com/ajaidan0/scrollbarbegone)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
