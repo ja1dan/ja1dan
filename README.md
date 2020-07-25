@@ -12,6 +12,8 @@ I'm ajaidan0, a tweak developer. Here are my current projects:
 ### This week's coding stats:
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week #30 : July 20 - 25
+
+
 ```
 <!--END_SECTION:waka-->
