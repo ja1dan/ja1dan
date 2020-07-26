@@ -15,6 +15,10 @@ I'm ajaidan0, a tweak developer. Here are my current projects:
 ```text
 Week #30 : July 20 - 25
 
-
+Logos       1 hr 11 mins        ████████████████░░░░░░░░░   65.24% 
+HTML        13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
+Makefile    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.62% 
+Bash        6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.77% 
+Other       5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.82%
 ```
 <!--END_SECTION:waka-->
