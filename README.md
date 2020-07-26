@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm ajaidan0, a tweak developer. Here are my current projects:
 
@@ -10,7 +10,7 @@ I'm ajaidan0, a tweak developer. Here are my current projects:
 - [LSDateBegone](https://github.com/ajaidan0/lsdatebegone)
 
 
-### This week's coding stats:
+## This week's coding stats:
 <!--START_SECTION:waka-->
 ```text
 Week #30 : July 20 - 25
