@@ -15,10 +15,10 @@ I'm ajaidan0, a tweak developer. Here are my current projects:
 ```text
 Week #31 : July 27 - 32
 
-HTML        1 hr 52 mins        █████████░░░░░░░░░░░░░░░░   37.75% 
-Logos       1 hr 24 mins        ███████░░░░░░░░░░░░░░░░░░   28.44% 
-Swift       34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.65% 
-CSS         34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.49% 
-Makefile    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.97%
+HTML        1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   35.06% 
+Logos       1 hr 46 mins        ████████░░░░░░░░░░░░░░░░░   33.27% 
+Swift       34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.82% 
+CSS         34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.67% 
+Makefile    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.75%
 ```
 <!--END_SECTION:waka-->
