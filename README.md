@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![ajaidan0's github stats](https://github-readme-stats.vercel.app/api?username=ajaidan0&count_private=true&show_icons=true&theme=radical)
+![ajaidan0's github stats](https://github-readme-stats.vercel.app/api?username=ajaidan0&count_private=true&show_icons=true)
 
 I'm ajaidan0, a tweak developer. Here are my current projects:
 
