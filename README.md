@@ -15,7 +15,7 @@ I'm ajaidan0, a tweak developer. Here are my current projects:
 ## This week's coding stats:
 <!--START_SECTION:waka-->
 ```text
-Week #31 : July 27 - 32
+Week #31 : August -4 - 1
 
 HTML        1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   35.06% 
 Logos       1 hr 46 mins        ████████░░░░░░░░░░░░░░░░░   33.27% 
