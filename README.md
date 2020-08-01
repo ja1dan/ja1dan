@@ -1,15 +1,18 @@
 ![ajaidan0's github stats](https://github-readme-stats.vercel.app/api?username=ajaidan0&count_private=true&show_icons=true)
 
-# Hi there 👋
+# Hello!
 
-I'm ajaidan0, a tweak developer. Here are my current projects:
+I'm ajaidan0, a tweak developer. I'm currently a part of two teams:
 
-- [Mavalry](https://github.com/ajaidan0/mavalry)
-- [NoMoreScrollstoTop](https://github.com/ajaidan0/nomorescrollstotop)
-- [OTADisablerDisabler](https://github.com/ajaidan0/otadisablerdisabler)
-- [ReachabilityTimerBEGONE](https://github.com/ajaidan0/reachabilitytimerbegone)
-- [ScrollBarBEGONE](https://github.com/ajaidan0/scrollbarbegone)
-- [LSDateBegone](https://github.com/ajaidan0/lsdatebegone)
+- [Capsule](https://github.com/capsule-development) | A new, revolutionized package manager for iOS
+- [Aurora Tweaks](https://github.com/official-aurora) | A tweak development team
+
+Here are my most maintained projects:
+
+- [Mavalry](https://github.com/ajaidan0/mavalry) | The ultimate iOS Customization tweak.
+- [NoMoreScrollstoTop](https://github.com/ajaidan0/nomorescrollstotop) | A tweak to remove scrollsToTop from most apps.
+- [Cadmus](https://github.com/official-aurora/cadmus) | A framework to make iOS Development easier.
+
 
 
 ## This week's coding stats:
