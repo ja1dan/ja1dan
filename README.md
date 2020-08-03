@@ -18,7 +18,7 @@ Here are my most maintained projects:
 ## This week's coding stats:
 <!--START_SECTION:waka-->
 ```text
-Week #31 : August -4 - 1
+Week #32 : August 3 - 8
 
 Logos       1 hr 56 mins        █████████░░░░░░░░░░░░░░░░   39.22% 
 Makefile    1 hr 17 mins        ██████░░░░░░░░░░░░░░░░░░░   26.13% 
