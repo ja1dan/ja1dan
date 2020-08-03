@@ -20,10 +20,10 @@ Here are my most maintained projects:
 ```text
 Week #32 : August 3 - 8
 
-Logos       1 hr 56 mins        █████████░░░░░░░░░░░░░░░░   39.22% 
-Makefile    1 hr 17 mins        ██████░░░░░░░░░░░░░░░░░░░   26.13% 
-Markdown    51 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.37% 
-Objective-C 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.12% 
-Bash        11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.71%
+Logos       2 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   34.66% 
+Makefile    1 hr 28 mins        ██████░░░░░░░░░░░░░░░░░░░   23.52% 
+Markdown    58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.42% 
+HTML        43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.49% 
+Objective-C 37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.94%
 ```
 <!--END_SECTION:waka-->
