@@ -1,5 +1,3 @@
-![ajaidan0's github stats](https://github-readme-stats.vercel.app/api?username=ajaidan0&count_private=true&show_icons=true)
-
 # Hello!
 
 I'm ajaidan0, a tweak developer. I'm currently a part of two teams:
