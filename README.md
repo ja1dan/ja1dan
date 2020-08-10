@@ -21,10 +21,10 @@ Here are my most maintained projects:
 ```text
 Week #33 : August 10 - 15
 
-Logos       6 hrs 31 mins       █████████████░░░░░░░░░░░░   54.68% 
-Objective-C 1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.37% 
-Makefile    57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.02% 
-HTML        54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.56% 
-Debian Control file35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.98%
+Logos       7 hrs 43 mins       ██████████████░░░░░░░░░░░   58.29% 
+Objective-C 2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.64% 
+Makefile    1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.2% 
+Debian Control file38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.83% 
+PHP         33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.26%
 ```
 <!--END_SECTION:waka-->
