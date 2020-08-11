@@ -5,7 +5,7 @@ I'm ajaidan0, a tweak developer. I'm currently a part of two teams:
 - [Capsule](https://github.com/capsule-development) | A new, revolutionized package manager for iOS
 - [Aurora Tweaks](https://github.com/official-aurora) | A tweak development team
 
-Check out my [open sourced tweaks](https://github.com/ajaidan0/open-sourced-tweaks)
+Check out my [open sourced tweaks](https://github.com/ajaidan0/open-sourced-tweaks)!
 
 ## This week's coding stats:
 <!--START_SECTION:waka-->
