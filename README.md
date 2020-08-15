@@ -1,11 +1,16 @@
 # Hello!
 
-I'm ajaidan0, a tweak developer. I'm currently a part of two teams:
+I'm ajaidan0, a developer. 
 
-- [Capsule](https://github.com/capsule-development) | A new, revolutionized package manager for iOS
-- [Aurora Tweaks](https://github.com/official-aurora) | A tweak development team
+## What languages have you coded in?
 
-Check out my [open sourced tweaks](https://github.com/ajaidan0/open-sourced-tweaks)!
+I specialize in Objective-C, Logos, and Discord.js.
+
+## What are you working on?
+
+I am developing Open-Sourced tweaks.
+
+[Check them out here!](https://github.com/ajaidan0/open-sourced-tweaks)!
 
 ## This week's coding stats:
 <!--START_SECTION:waka-->
