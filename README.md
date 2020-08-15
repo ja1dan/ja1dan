@@ -10,7 +10,7 @@ I specialize in Objective-C, Logos, and Discord.js.
 
 I am developing Open-Sourced tweaks.
 
-[Check them out here!](https://github.com/ajaidan0/open-sourced-tweaks)!
+[Check them out here!](https://github.com/ajaidan0/open-sourced-tweaks)
 
 ## This week's coding stats:
 <!--START_SECTION:waka-->
