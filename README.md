@@ -4,7 +4,7 @@ I'm ajaidan0, a developer.
 
 ## What languages have you coded in?
 
-I specialize in Objective-C, Logos, and Discord.js.
+I specialize in Objective-C, Logos, and Javascript.
 
 ## What are you working on?
 
