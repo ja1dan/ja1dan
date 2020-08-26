@@ -15,10 +15,10 @@ I am developing Open-Sourced tweaks.
 ## This week's coding stats:
 <!--START_SECTION:waka-->
 ```text
-JavaScript    3 hrs 39 mins   ██████████▓░░░░░░░░░░░░░░   42.86 % 
-Objective-C   1 hr 51 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.91 % 
-Logos         1 hr 2 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Makefile      32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-XML           23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+JavaScript    4 hrs 22 mins   █████████████▓░░░░░░░░░░░   54.68 % 
+Logos         54 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Makefile      48 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Objective-C   39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+Other         29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
 ```
 <!--END_SECTION:waka-->
