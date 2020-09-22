@@ -15,9 +15,6 @@ I am developing Open-Sourced tweaks.
 ## This week's coding stats:
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 hrs 26 mins   ██████████████████████░░░   88.51 % 
-Python       10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
