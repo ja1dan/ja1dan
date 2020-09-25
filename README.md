@@ -2,6 +2,10 @@
 
 I'm ajaidan0, a developer.
 
+## What are you working on?
+
+I am currently working on [Atlas](https://github.com/cupertino-development/Atlas), the node.js API Wrapper for Cupertino, a Stackoverflow / Discord hybrid.
+
 ## This week's coding stats:
 <!--START_SECTION:waka-->
 ```text
