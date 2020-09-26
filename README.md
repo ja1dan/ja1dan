@@ -9,8 +9,10 @@ I am currently working on [Atlas](https://github.com/cupertino-development/Atlas
 ## This week's coding stats:
 <!--START_SECTION:waka-->
 ```text
-JSON         43 mins         ███████████████████▒░░░░░   77.55 % 
-JavaScript   10 mins         █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-Other        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+JavaScript   2 hrs 8 mins    ████████████████▒░░░░░░░░   64.83 % 
+JSON         1 hr 1 min      ███████▓░░░░░░░░░░░░░░░░░   31.16 % 
+Markdown     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 <!--END_SECTION:waka-->
