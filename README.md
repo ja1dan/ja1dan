@@ -7,10 +7,10 @@ I am well-versed in Objective-C, C, and Javascript. I plan on venturing into Pyt
 ## This week's coding stats:
 <!--START_SECTION:waka-->
 ```text
-JavaScript   7 hrs 36 mins   █████████████████████▒░░░   84.93 % 
-HTML         34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-Markdown     25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-SCSS         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+JavaScript   8 hrs 20 mins   ██████████████████████▒░░   89.71 % 
+HTML         33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Markdown     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+SCSS         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 ```
 <!--END_SECTION:waka-->
