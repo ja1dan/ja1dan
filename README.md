@@ -7,7 +7,7 @@ I am well-versed in Objective-C, C, and Javascript. I plan on venturing into Pyt
 ## This week's coding stats:
 <!--START_SECTION:waka-->
 ```text
-JavaScript   5 hrs 54 mins   ████████████████████▒░░░░   81.33 % 
+JavaScript   5 hrs 54 mins   ████████████████████▒░░░░   81.32 % 
 HTML         24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
 TypeScript   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 JSON         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
