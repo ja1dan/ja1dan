@@ -1,11 +1,9 @@
 name: music-box
-
 on:
   schedule:
     - cron: '0 * * * *'  # hourly
   push:
     branches: master
-
 jobs:
   musicbox:
    runs-on: ubuntu-latest
@@ -13,7 +11,7 @@ jobs:
      - uses: actions/checkout@v2
      - run: npm install
      - name: Update
-       uses: jacc/music-box@master
+       uses: ./
        env:
           LASTFM_KEY: ${{ secrets.LASTFM_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
