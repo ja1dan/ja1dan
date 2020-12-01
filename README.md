@@ -5,6 +5,7 @@ I'm Monotrix, a hobbyist developer. When I'm not programming, you can probably f
 I am well-versed in Objective-C, C, and Javascript. I plan on venturing into Python and Java.
 
 ## Contact Me:
-Reddit: Monotr1x
-
+Reddit: Monotr1x  
+  
+## Misc
 ![Mono's Github Stats](https://github-readme-stats.vercel.app/api?username=Monotrix)
