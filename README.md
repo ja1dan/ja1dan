@@ -6,3 +6,5 @@ I am well-versed in Objective-C, C, and Javascript. I plan on venturing into Pyt
 
 ## Contact Me:
 Reddit: Monotr1x
+
+[Mono's Github Stats](https://github-readme-stats.vercel.app/api?username=Monotrix)]
