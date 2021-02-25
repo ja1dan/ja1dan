@@ -4,5 +4,6 @@
   <br>
   <h2>Contact Me</h2>
   <p><strong>Reddit: Monotr1x<strong></p>
+  <p><strong>Discord: Monotrix#5665<strong></p>
   <br>
 </div>
