@@ -1,9 +1,15 @@
-<div align="center">
-  <h1>Heya!</h1>
-  <p><strong>I'm Monotrix, a hobbyist developer. I am the second developer for <a href="https://github.com/JailbreaksApp">Jailbreaks.app</a>. When I'm not programming, you can probably find me gaming.</strong></p>
-  <br>
-  <h2>Contact Me</h2>
-  <p><strong>Reddit: Monotr1x<strong></p>
-  <p><strong>Discord: Monotrix#0001<strong></p>
-  <br>
-</div>
+#### Hi there! Welcome to my GitHub!
+There's some cool stuff about me below. Try giving it a read!<br>
+If you need to contact me, my Discord username is `monotrix#9999`.
+---
+**What languages can you work in?**<br>
+- Javascript (Node or Web)
+- Python
+- Objective-C
+- Swift
+- HTML
+- CSS
+
+**Projects**<br>
+- SignedBot, a Discord bot dedicated to helping you stay in the know about Jailbreaks.app's certificate status.
+- CheatManager (Manticore Team), a simple and easy to use frontend for installing cheats on your favorite games.
