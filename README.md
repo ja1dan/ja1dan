@@ -16,6 +16,6 @@ I love video games, coffee, and programming.
 <!--END_SECTION:waka-->
 
 ---
-**Extra Info**
-Discord Username: monotrix#9999
+**Extra Info**<br>
+Discord Username: monotrix#9999  
 [PGP Key](https://keybase.io/monotrix/pgp_keys.asc) - C290 5795 F841 8314
