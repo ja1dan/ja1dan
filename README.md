@@ -1,6 +1,5 @@
-#### Hi there! Welcome to my GitHub!
-There's some cool stuff about me below. Try giving it a read!<br>
-If you need to contact me, my Discord username is `monotrix#9999`.
+#### Hi there! I'm Jaidan!
+I love video games, coffee, and programming.
 
 ---
 **What languages can you work in?**<br>
@@ -11,11 +10,12 @@ If you need to contact me, my Discord username is `monotrix#9999`.
 - HTML
 - CSS
 
-**Projects**<br>
-- Colossus, a lightweight, depless and simple node HTTP server library.
-- SignedBot, a Discord bot dedicated to helping you stay in the know about Jailbreaks.app's certificate status.
-- CheatManager (Manticore Team), a simple and easy to use frontend for installing cheats on your favorite games.
+---
+**Development Metrics**<br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
-
+**Extra Info**
+Discord Username: monotrix#9999
 [PGP Key](https://keybase.io/monotrix/pgp_keys.asc) - C290 5795 F841 8314
