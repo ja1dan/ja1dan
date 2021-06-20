@@ -21,4 +21,4 @@ No Activity tracked this Week
 ---
 **Extra Info**<br>
 Discord Username: monotrix#9999  
-[PGP Key](https://keybase.io/monotrix/pgp_keys.asc) - C290 5795 F841 8314
+[PGP Key](https://keybase.io/monotrix/pgp_keys.asc): C290 5795 F841 8314
