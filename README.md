@@ -24,5 +24,5 @@ Markdown     1 min           ▒░░░░░░░░░░░░░░░░
 
 ---
 **Extra Info**<br>
-Discord Username: monotrix#9999  
+Discord Username: jaidan#9999  
 [PGP Key](https://keybase.io/monotrix/pgp_keys.asc): C290 5795 F841 8314
