@@ -14,9 +14,11 @@ I love video games, coffee, and programming.
 **Development Metrics**<br>
 <!--START_SECTION:waka-->
 ```text
-TypeScript   1 hr 58 mins    ██████████████████████▒░░   89.80 % 
-JavaScript   8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-CSS          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+TypeScript   2 hrs 27 mins   ████████████████████▓░░░░   83.01 % 
+JavaScript   16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Bash         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+CSS          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 ```
 <!--END_SECTION:waka-->
 
