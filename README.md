@@ -24,5 +24,5 @@ Bash         12 mins         ▒░░░░░░░░░░░░░░░░
 
 ---
 **Extra Info**<br>
-Discord Username: jaidan#9999  
+Discord Username: jaidan#1111  
 [PGP Key](https://keybase.io/monotrix/pgp_keys.asc): C290 5795 F841 8314
