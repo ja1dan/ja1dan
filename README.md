@@ -14,11 +14,11 @@ I love video games, coffee, and programming.
 **Development Metrics**<br>
 <!--START_SECTION:waka-->
 ```text
-TypeScript   1 hr 27 mins    ██████████▓░░░░░░░░░░░░░░   43.32 % 
-Docker       47 mins         ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
-Logos        14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-Text         11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-Python       11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+TypeScript   1 hr 27 mins    █████████▓░░░░░░░░░░░░░░░   39.19 % 
+Docker       47 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.33 % 
+Python       33 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Logos        14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Markdown     11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 ```
 <!--END_SECTION:waka-->
 
