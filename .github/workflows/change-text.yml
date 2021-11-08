@@ -3,7 +3,7 @@ name: Change README contents
 on:
   push:
     paths:
-      - README.rst
+      - README.md
 
 jobs:
   render:
