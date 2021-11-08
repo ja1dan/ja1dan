@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Change README
-        run: sed 's/```text/```yaml/' < README.md > README.md
+        run: cat README.md | sed 's/```text/```yaml/' | tee README.md
       - name: Commit results
         run: |
           git commit README.md -m 'Change README contents' || echo "No changes to commit"
