@@ -8,7 +8,8 @@ on:
 jobs:
   render:
     name: Change README contents
-    runs-on: macos-latest
+    - uses: actions/checkout@v2
+    runs-on: ubuntu-latest
     steps:
       - name: Change README
         run: sed 's/```text/```yaml/' ./README.md
