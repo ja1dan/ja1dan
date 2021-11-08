@@ -11,8 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Change README
-        run: sed 's/```text/```yaml/' README.md
+        run: sed 's/```text/```yaml/' ./README.md
       - name: Commit results
         run: |
-          git commit README.md -m 'Change README contents' || echo "No changes to commit"
+          git commit ./README.md -m 'Change README contents' || echo "No changes to commit"
           git push origin || echo "No changes to commit"
