@@ -35,5 +35,5 @@ Bash         10 mins         █▒░░░░░░░░░░░░░░░
 ---
 
 <sup>
-<a href="https://keybase.io/monotrix/pgp_keys.asc">PGP Key</a>
+<a href="https://keybase.io/monotrix/pgp_keys.asc">PGP Key</a> (C290 5795 F841 8314)
 </sup>
