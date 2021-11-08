@@ -1,5 +1,8 @@
 #### Hi there! I'm Jaidan!
-I love video games, coffee, and programming.
+
+---
+**Why do you program?**<br>
+I program solely because of the satisfaction that you get when you finish a project that you set out to create after so much hard work. There's truly no better feeling!
 
 ---
 **What languages can you work in?**<br>
