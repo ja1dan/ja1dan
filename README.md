@@ -1,6 +1,6 @@
 # Hi there! I'm Jaidan. 👋🏼
 
-I'm a hobbyist developer. I've worked on many projects such as [Jailbreaks.app](https://github.com/JailbreaksApp), [Bloo](https://github.com/DiscordGIR), and more.
+I'm a hobbyist developer. I've worked on many projects such as [Jailbreaks.app](https://github.com/JailbreaksApp), [Bloo](https://github.com/DiscordGIR), and many more.
 
 ---
 
