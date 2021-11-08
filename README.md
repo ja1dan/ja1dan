@@ -24,7 +24,7 @@ I program solely because of the satisfaction that you get when you finish a proj
 
 ## Development Metrics ⌨️
 <!--START_SECTION:waka-->
-```text
+```yaml
 TypeScript   1 hr 27 mins    ██████████▒░░░░░░░░░░░░░░   41.05 % 
 Docker       47 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.34 % 
 Python       38 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.28 % 
