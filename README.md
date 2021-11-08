@@ -35,5 +35,5 @@ Bash         10 mins         █▒░░░░░░░░░░░░░░░
 ---
 
 <sup>
-Jaidan | <a href="https://keybase.io/monotrix/pgp_keys.asc">PGP Key</a>
+<a href="https://keybase.io/monotrix/pgp_keys.asc">PGP Key</a>
 </sup>
