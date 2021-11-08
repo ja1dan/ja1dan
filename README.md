@@ -32,10 +32,8 @@ Markdown     11 mins         █▒░░░░░░░░░░░░░░░
 Bash         10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
 ```
 <!--END_SECTION:waka-->
-
 ---
 
-## Extra Info ✨
-
-Discord Username: jaidan#1111  
-[[PGP Key]](https://keybase.io/monotrix/pgp_keys.asc) C290 5795 F841 8314
+<sup>
+Jaidan | <a href="https://keybase.io/monotrix/pgp_keys.asc">PGP Key</a>
+</sup>
