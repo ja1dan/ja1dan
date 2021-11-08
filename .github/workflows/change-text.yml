@@ -1,0 +1,18 @@
+name: Change README contents
+
+on:
+  push:
+    paths:
+      - README.rst
+
+jobs:
+  render:
+    name: Change README contents
+    runs-on: ubuntu-latest
+    steps:
+      - name: Change README
+        run: sed 's/```text/```yaml/' README.rst
+      - name: Commit results
+        run: |
+          git commit README.rst -m 'Change README contents' || echo "No changes to commit"
+          git push origin || echo "No changes to commit"
