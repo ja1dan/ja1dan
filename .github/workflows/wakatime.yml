@@ -15,3 +15,10 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+      - uses: actions/checkout@v2
+      - name: Change README
+        run: cat README.md | sed 's/```text/```yaml/' | tee README.md
+      - name: Commit results
+        run: |
+          git commit README.md -m 'Change README contents' || echo "No changes to commit"
+          git push origin || echo "No changes to commit"
