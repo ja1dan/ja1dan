@@ -24,12 +24,12 @@ I program solely because of the satisfaction that you get when you finish a proj
 
 ## Development Metrics ⌨️
 <!--START_SECTION:waka-->
-```yaml
-TypeScript   1 hr 27 mins    ██████████▒░░░░░░░░░░░░░░   41.05 % 
-Docker       47 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.34 % 
-Python       38 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.28 % 
-Markdown     11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-Bash         10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+```text
+Python       38 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.48 % 
+TypeScript   35 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.23 % 
+Docker       12 mins         ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.24 % 
+Bash         10 mins         ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.92 % 
+Text         10 mins         ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.85 % 
 ```
 <!--END_SECTION:waka-->
 ---
