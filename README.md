@@ -1,6 +1,6 @@
 # Hi there! I'm Jaidan. 👋🏼
 
-I'm a hobbyist developer. I've worked on many projects such as [Bloo](https://github.com/DiscordGIR), [Canister](https://github.com/CanisterApp), and more.
+I'm a hobbyist developer. I've worked on many projects such as [Bloo](https://github.com/DiscordGIR), [Canister](https://github.com/cnstr), and more.
 
 ---
 
