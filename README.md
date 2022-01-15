@@ -18,5 +18,5 @@ I'm a developer that specializes in backend development and scripting. I use lan
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ja1dan&layout=compact&langs_count=6&theme=dark)](https://github.com/ja1dan)
 
 ## ✉️ Contact Information
-* Discord: jaidan#1111
+* Discord: [jaidan#1111](https://discord.com/users/811496735406293062)
 * Reddit: [u/monotr1x](https://reddit.com/u/monotr1x)
