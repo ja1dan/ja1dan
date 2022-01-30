@@ -15,7 +15,7 @@ I'm a developer that specializes in backend development and scripting. I use lan
 </details>
 
 <details>
-  <summary🤓 Stats</summary>
+  <summary>🤓 Stats</summary>
   <br>
   
   [![Github Stats](https://github-readme-stats.vercel.app/api?username=ja1dan&show_icons=true&count_private=true&theme=dark)](https://github.com/ja1dan)
@@ -26,7 +26,7 @@ I'm a developer that specializes in backend development and scripting. I use lan
 </details>
 
 <details>
-  <summary>## ✉️ Contact Information</summary>
+  <summary>✉️ Contact Information</summary>
   <br>
   
   * Discord: [jaidan#1111](https://discord.com/users/811496735406293062)
