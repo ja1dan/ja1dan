@@ -28,6 +28,7 @@ I'm a developer that specializes in backend development and scripting. I use lan
 <details>
   <summary>## ✉️ Contact Information</summary>
   <br>
+  
   * Discord: [jaidan#1111](https://discord.com/users/811496735406293062)
   * Reddit: [u/monotr1x](https://reddit.com/u/monotr1x)
 </details>
