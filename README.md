@@ -5,12 +5,11 @@ I'm a developer that specializes in backend development and scripting. I use lan
 
 | Project                                                    | Description                                                                    |
 |------------------------------------------------------------|--------------------------------------------------------------------------------|
-| [Canister.py](https://github.com/cnstr/canister.py)        | The official library for interacting with [Canister](https://canister.me) in Python. |
 | [AppleReleases](https://github.com/m1stadev/AppleReleases) | A Discord bot that notifies you of any software releases from Apple. |
 | [Destiny](https://github.com/ja1dan/Destiny)               | A simple, configurable ZSH prompt with no dependencies. |
 | [GIR](https://github.com/DiscordGIR/GIRRewrite)            | The best Discord bot. (Created for [r/Jailbreak](https://discord.gg/jb)) |
 | [Jailbreaks.app](https://jailbreaks.app)                   | The world's first and only fully legal iOS signing service. |
-| [Themer](https://github.com/ja1dan/Themer)                 | A WIP theme engine for macOS, written in Python. |
+| [Themer](https://github.com/ja1dan/Themer)                 | A POC theme engine for macOS, written in Python. |
 
 # 🤓 Stats
   
