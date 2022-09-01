@@ -9,7 +9,6 @@ I'm a developer that specializes in backend development and scripting. I use lan
 | [Destiny](https://github.com/ja1dan/Destiny)               | A simple, configurable ZSH prompt with no dependencies. |
 | [GIR](https://github.com/DiscordGIR/GIRRewrite)            | The best Discord bot. (Created for [r/Jailbreak](https://discord.gg/jb)) |
 | [Jailbreaks.app](https://jailbreaks.app)                   | The world's first and only fully legal iOS signing service. |
-| [Themer](https://github.com/ja1dan/Themer)                 | A POC theme engine for macOS, written in Python. |
 
 # 🤓 Stats
   
