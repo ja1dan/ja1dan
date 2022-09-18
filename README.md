@@ -1,4 +1,3 @@
-# Hi there, I'm Jaidan! 👋🏼
 I'm a developer that specializes in backend development and scripting. I use languages such as [Python](https://python.org), [TypeScript](https://typescriptlang.org), [JavaScript](https://javascript.com), and [Swift](https://swift.org).
 
 # 💻 Projects
