@@ -1,1 +1,3 @@
-developer that specializes in backend development and scripting. i use languages like [python](https://python.org), [typescript](https://typescriptlang.org), [javascript](https://javascript.com), and [swift](https://swift.org).
+developer that specializes in backend and scripting.
+
+tinkering [@Olympta](https://github.com/Olympta), creating iOS development toolkits [@LuzProject](https://github.com/LuzProject)
